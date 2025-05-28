@@ -1,0 +1,5 @@
+node-v16.20.2-linux-x64/
+node_modules/
+*.node
+ds005899/
+
