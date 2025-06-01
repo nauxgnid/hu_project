@@ -2,4 +2,9 @@ node-v16.20.2-linux-x64/
 node_modules/
 *.node
 ds005899/
+.ipynb_checkpoints/
+output/
+*.log
+node-v16.20.2-linux-x64.tar.xz
+ds005899/
 
