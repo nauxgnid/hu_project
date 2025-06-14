@@ -1,9 +1,0 @@
-bids-validator@1.15.0
-[32mThis dataset appears to be BIDS compatible.[39m
-        [34m[4mSummary:[24m[39m               [34m[4mAvailable Tasks:[24m[39m        [34m[4mAvailable Modalities:[39m[24m 
-        7 Files, 6.76KB        csst                    MRI                   
-        1 - Subject                                                          
-        1 - Session                                                          
-
-
-[36m	If you have any questions, please post on https://neurostars.org/tags/bids.[39m
