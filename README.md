@@ -2,7 +2,7 @@
 type: "project" # DON'T TOUCH THIS ! :)
 date: "2025-06-15" # Date you first upload your project.
 # Title of your project (we like creative title)
-title: "This is an example project page which serves as a template"
+title: "Analysing Variability in Frontoparietal Activity in Children with and without ADHD
 
 # Name of the collaborator
 name: [Hu Ding Xuan]
@@ -19,7 +19,7 @@ tags: [adhd, fmri, connectivity, differences]
 
 # Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
 
-summary: "Attention-Deficit/Hyperactivity Disorder (ADHD) involves deficits in executive control, potentially linked to frontoparietal network connectivity. The dorsolateral prefrontal cortex (dlPFC) and posterior parietal cortex (PPC) are key regions for analysis. This study examines dlPFC-PPC connectivity and dlPFC BOLD time series in ADHD versus typically developing (TD) children during the cued stop-signal task (CSST) using fMRI data from OpenNeuro ds005899. It is hypothesised that stronger dlPFC-PPC connectivity will be found in the ADHD group."
+summary: " This study examines dorsolateral prefrontal cortex (dlPFC) and posterior parietal cortex (PPC) connectivity and dlPFC BOLD time series in ADHD versus typically developing (TD) children during the cued stop-signal task (CSST) using fMRI data from OpenNeuro ds005899. It is hypothesised that stronger dlPFC-PPC connectivity will be found in the ADHD group."
 
 ---
 <!-- This is an html comment and this won't appear in the rendered page. You are now editing the "content" area, the core of your description. Everything that you can do in markdown is allowed below. We added a couple of comments to guide your through documenting your progress. -->
