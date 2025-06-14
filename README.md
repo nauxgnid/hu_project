@@ -2,7 +2,7 @@
 type: "project" # DON'T TOUCH THIS ! :)
 date: "2025-06-15" # Date you first upload your project.
 # Title of your project (we like creative title)
-title: "Analysing Variability in Frontoparietal Activity in Children with and without ADHD
+title: "Analysing Variability in Frontoparietal Activity in Children with and without ADHD"
 
 # Name of the collaborator
 name: [Hu Ding Xuan]
